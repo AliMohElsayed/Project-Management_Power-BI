@@ -8,6 +8,7 @@ Total Benefit: $874M
 Total Cost: $412M
 Average Complexity: 0.87
 Project Timeline: 2021 - 2026
+
 Dashboard Visuals:
 Total Benefits by Department & Status: A comparison of project benefits categorized by department and current status (In Progress, Completed, On Hold, etc.).
 Project Benefits by Region: An overview of total project benefits across different regions.
@@ -18,5 +19,7 @@ Total Benefits by Department & Project Types: A combined analysis of benefits ac
 
 Features:
 Filtering Capabilities: Filter the data by project status, type, and department to focus on specific areas of interest.
+
 Interactivity: Dynamic charts and visualizations allow users to explore the data in a more engaging and intuitive way.
+
 Actionable Insights: The dashboard highlights key performance indicators (KPIs), such as project benefit-to-cost ratios, timelines, and complexity levels.
